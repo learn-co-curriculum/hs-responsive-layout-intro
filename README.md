@@ -9,3 +9,4 @@ In this lesson, you will learn all about how to build a responsive layout using:
 + Media Queries
 + Responsive Type
 + Responsive Media
+<a href='https://learn.co/lessons/hs-responsive-layout-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
